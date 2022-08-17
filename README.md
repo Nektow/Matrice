@@ -1,10 +1,10 @@
-# Matrice
-Le but est de crée dans un terminal un nombre aléatoir de charactère afin de reproduire la matrice de matrix.
+# Matrix
+The goal is to create in a terminal a random number of characters in order to reproduce the matrix matrix.
 
-On va alors diviser le travail en trois parties distinctes :
+We will then divide the work into three distinct parts:
 
-I Tout d'abord il faut créer des liste de la même taille que le terminal qui contient des charactères aléatoires on peut aussi y ajouter les espaces.
+I First of all, you have to create lists of the same size as the terminal which contains random characters.
 
-II Pour cela il va falloir récupérer ces informations via le module "rich"
+II For this you will have to recover this information via the "rich" module
 
-III Une fois cela fait nous allons pouvoir rajouter des updates comme la vitesse de chute, la couleur etc...
+III Once this is done we will be able to add updates like fall speed, color etc...
